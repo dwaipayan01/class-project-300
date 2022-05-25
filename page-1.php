@@ -28,7 +28,7 @@
               <a href="update.php">Update User Info</a>
               <a href="logout.php">Logout</a>
             </div></a></li>
-          <li><a href="#dev" onclick='test();'>Current Events</a></li> 
+          <li><a href="#dev" onclick='test();'>Devolopers Details</a></li> 
       </nav>
   </header>
 
@@ -84,21 +84,38 @@
 
       <div class="section-header">
                 <h2>Devolopers Details</h2>
-                <p>The Devolopers details and others members details is described billow.</p>
+                <p>The Devolopers details and others members details is described below.</p>
             </div>
 
-            <div class="w3-cell-row" style="width:50%; margin-left: 350px;">
+            <div class="w3-cell-row" style="width:50%; margin-left: 300px;">
               <div class="w3-container w3-cell">
-            <img id="borderimg" src="images/bitmap.png" height="170" width="150" style="margin-left: 40px;">
+            <img id="borderimg" src="images/dj2.jpg" height="170" width="150" style="margin-left: 40px;">
           </div>
 
             <div class="w3-container w3-cell">
 
-            <h4>Nilashish Roy</h4>
+            <h4>Dwaipayan Dash</h4>
             <h5>Founder</h5>
-            <p>B.sc 4th year Computer Science and Engineering Student at <br><strong>Leading University, Sylhet</strong></p>
+            <p>B.sc 4th year Computer Science and Engineering Student at <br><strong>Metropolitan University, Sylhet</strong></p>
           
           <span class="social-icons">
+            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
+            <li><a href="#"><span class="fa fa-twitter"></span></a></li> 
+            <li><a href="#"><span class="fa fa-google-plus"></span></a></li> 
+          </span>
+          </div>
+            <div class="w3-cell-row" style="width:50%">
+              <div class="w3-container w3-cell">
+            <img id="borderimg" src="images/dj3.jpg" height="170" width="150" style="margin-left: 40px;">
+          </div>
+
+            <div class="w3-container w3-cell">
+
+            <h4>Priotush Sutradhar</h4>
+            <h5>Founder</h5>
+            <p>B.sc 4th year Computer Science and Engineering Student at <br><strong>Metropolitan University, Sylhet</strong></p>
+          
+          <span class="social-icons mb-5">
             <li><a href="#"><span class="fa fa-facebook"></span></a></li>
             <li><a href="#"><span class="fa fa-twitter"></span></a></li> 
             <li><a href="#"><span class="fa fa-google-plus"></span></a></li> 
